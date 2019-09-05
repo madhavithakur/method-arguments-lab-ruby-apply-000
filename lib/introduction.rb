@@ -1,4 +1,4 @@
-require "spec_helper"
+require_relative "spec_helper"
 
 def introduction(name)
   puts "Hi, my name is " name
